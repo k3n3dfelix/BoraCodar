@@ -44,7 +44,7 @@
             <td><a href="01">Music Player </a></td>
             <td>13/12/2023</td>
             <td align="center">
-            <a href="01"><img width="300px" src="screens/01.jpg" /></a></td>
+            <a href="https://github.com/k3n3dfelix/BoraCodar/tree/main/Projeto1"><img width="300px" src="https://github.com/k3n3dfelix/BoraCodar/blob/main/screens/01.JPG" /></a></td>
         </tr>   
     </tbody>
 </table></p>
