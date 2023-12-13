@@ -1,7 +1,7 @@
 # #boraCodar
 
 <p align="center">
-    Treinamento em desenvolvimento de Front-Ends prosposto pela escola de prgramação Rockeseat #boraCodar <br>
+    Treinamento em desenvolvimento de Front-Ends prosposto pela escola de especialização em desenvolvimento de softwares Rockeseat #boraCodar <br>
     <br>
     <br><table>
     <thead>
