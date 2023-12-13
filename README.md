@@ -41,10 +41,17 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="Projeto1">Music Player </a></td>
+            <td><a href="Desafio01">Music Player </a></td>
             <td>13/12/2023</td>
             <td align="center">
-            <a href="Projeto1"><img width="300px" src="https://github.com/k3n3dfelix/BoraCodar/blob/main/screens/01.JPG" /></a></td>
-        </tr>   
+            <a href="Desafio02"><img width="300px" src="https://github.com/k3n3dfelix/BoraCodar/blob/main/screens/01.JPG" /></a></td>
+        </tr>  
+        <tr>
+            <td>02</td>
+            <td><a href="Desafio01">Product Card</a></td>
+            <td>13/12/2023</td>
+            <td align="center">
+            <a href="Desafio02"><img width="300px" src="https://github.com/k3n3dfelix/BoraCodar/blob/main/screens/02.JPG" /></a></td>
+        </tr> 
     </tbody>
 </table></p>

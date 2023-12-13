@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" class="animated">
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@600&family=Lato:wght@300;400&display=swap"
+      rel="stylesheet"
+    />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <title>Bora Codar - Nome Desafio - 00</title>
+  </head>
+  <body>
+    <div class="app">
+      <div id="product-image">
+        <button id="btn-360" onclick="toggle()">
+          <img
+            src="./assets/360.svg"
+            alt="Clique nesse botão para animar o sofá"
+          />
+        </button>
+        <button id="btn-close"  onclick="toggle()">
+          <img src="./assets/close.svg" alt="Parar de animar o sofá" />
+        </button>
+        <img  id="static" src="./assets/sofa.jpg" alt="sofa" />
+        <img  id="animated" src="./assets/sofa_gif.gif" alt="sofa" />
+      </div>
+      <div id="product-details">
+        <h4>CÓDIGO 42404</h4>
+        <h1>Sofá MArgot II - Rosé</h1>
+        <p>R$ 4.000,00</p>
+        <button>Adicionar a Cesta</button>
+      </div>
+    </div>
+    <script>
+      function toggle(){
+        document.documentElement.classList.toggle('animated')
+      }
+    </script>
+  </body>
+</html>
